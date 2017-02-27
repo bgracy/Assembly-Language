@@ -1,0 +1,25 @@
+Jumbline
+
+By: Josh Binkley, Daren Cheng, Brad Gracy, and Luke New
+
+Prior To Running:
+	1.Make sure the following files are in the same folder:
+		“Mars4_4.jar”, 
+		“CheckAlreadyGuessed.asm”, 
+		“CheckWordBank.asm”, 
+		“Display.asm”, 
+		“Jumbline.asm”, 
+		“Jumbline_Functions.asm”, 
+		“RandomWordGrabber.asm”, 
+		“titlescreen.asm”, 
+		“ValidWordList.asm”
+	2.Be sure that the following folders are present in the same directory:
+		“Data”
+		Optional: “Legacy”
+	
+To Run:
+	1. Open MARS from the folder.
+	2. Open “Jumbline.asm”
+	3. Assemble the program.
+	4. Run the program.
+Have fun!
